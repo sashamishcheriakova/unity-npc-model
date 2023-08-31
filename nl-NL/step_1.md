@@ -1,11 +1,11 @@
-Navigate to the model you want to use in the Project window and drag the model into your Scene view.
+Navigeer in het projectvenster naar het model dat je wilt gebruiken en sleep het model naar je scèneweergave.
 
-![The scene view with Raccoon character wearing constructuon gear.](images/model-character.png)
+![De scèneweergave met het Raccoon personage dat een bouwhelm draagt.](images/model-character.png)
 
-If your model has associated child GameObjects, you can enable and disable them using the checkbox next to their name in the Inspector window.
+Als je model onderliggende GameObjects gekoppeld heeft, kun je deze inschakelen en uitschakelen met behulp van het selectievakje naast hun naam in het Inspector-venster.
 
-![The Hierarchy window showing the Raccoon GameObject and child GameObjects.](images/model-character-objects.png)
+![Het Hierarchy venster met het Raccoon GameObject en onderliggende GameObjects.](images/model-character-objects.png)
 
-You can customise your character by dragging 'Materials' onto the GameObjects in the Scene view. This example uses the Cat model with a white 'Snow' material instead of its usual material:
+Je kunt je personage aanpassen door 'Materialen' naar de GameObjects in de scèneweergave te slepen. In dit voorbeeld wordt het Cat-model gebruikt met wit 'Snow'-materiaal in plaats van het gebruikelijke materiaal:
 
-![The Game view showing the Cat model with a white 'Snow' material added.](images/snow-cat.png)
+![De gameweergave toont het Cat-model met een wit 'Snow'-materiaal dat is toegevoegd.](images/snow-cat.png)
