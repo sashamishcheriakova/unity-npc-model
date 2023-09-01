@@ -1,11 +1,11 @@
-Navigate to the model you want to use in the Project window and drag the model into your Scene view.
+Va vers le modèle que tu veux utiliser dans la fenêtre Project et fais glisser le modèle dans ta vue Scene.
 
 ![The scene view with Raccoon character wearing constructuon gear.](images/model-character.png)
 
-If your model has associated child GameObjects, you can enable and disable them using the checkbox next to their name in the Inspector window.
+Si ton modèle a des GameObjects enfants associés, tu peux les activer et les désactiver en utilisant la case à cocher située à côté de leur nom dans la fenêtre Inspector.
 
 ![The Hierarchy window showing the Raccoon GameObject and child GameObjects.](images/model-character-objects.png)
 
-You can customise your character by dragging 'Materials' onto the GameObjects in the Scene view. This example uses the Cat model with a white 'Snow' material instead of its usual material:
+Tu peux personnaliser ton personnage en faisant glisser des « Matériaux » sur les GameObjects dans la vue Scene. Cet exemple utilise le modèle Cat avec un matériau blanc « Snow » au lieu de son matériau habituel :
 
 ![The Game view showing the Cat model with a white 'Snow' material added.](images/snow-cat.png)
